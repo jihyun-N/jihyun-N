@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=프론트엔드%20개발자&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 ## 💻 Blog
 <a href="https://velog.io/@wldjsd79/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-EE4E4E?style=for-the-badge&logo=tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vlog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
 
 <br>
